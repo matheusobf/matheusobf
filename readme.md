@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML5, CSS3, JavaScript.</strong>
+  🦄 Linguagens: <strong>HTML5, CSS3, JavaScript, Lua, Delphi, Java, VBA.</strong>
 </p>
 
 <p align="left">
