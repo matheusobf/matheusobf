@@ -1,6 +1,6 @@
 ### Olá Devs 👋
 
-Sou Desenvolvedor Full-Stack e atualmente focado em Projetos Pessoais.
+Sou Desenvolvedor Full-Stack, cursando Engenharia de Software atualmente focado em Projetos Pessoais e Freelancer.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
